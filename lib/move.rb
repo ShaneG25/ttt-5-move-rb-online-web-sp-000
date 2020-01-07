@@ -12,4 +12,4 @@ def input_to_index(num)
 end
   
 def move(array, index, character="X")
-  
+  array[index] = character
