@@ -11,4 +11,5 @@ def input_to_index(num)
   num = num.to_i - 1
 end
   
-def move(array, index, character="x")
+def move(array, index, character="X")
+  
